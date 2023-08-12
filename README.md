@@ -5,8 +5,6 @@ Sou um apaixonado por Eletrônica e Desenvolvimento web. Minha jornada profissio
 [![Blog](https://img.shields.io/website?label=TecCriativo.com&style=for-the-badge&url=https://teccriativo.vercel.app/)](https://teccriativo.vercel.app)
 [![Blog](https://img.shields.io/website?label=Bolãodepalpites.com&style=for-the-badge&url=https://staygreen.up.railway.app/)](https://staygreen.up.railway.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raimundox&layout=donut)](https://github.com/raimundox/github-readme-stats)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -17,3 +15,8 @@ Sou um apaixonado por Eletrônica e Desenvolvimento web. Minha jornada profissio
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
+
+## Redes sociais
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raimundovdsn95/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-neto-650852207/)
+  [![Blog](https://img.shields.io/website?label=Portfólio.com&style=for-the-badge&url=https://teccriativo.vercel.app/)](https://teccriativo.vercel.app/contact)
