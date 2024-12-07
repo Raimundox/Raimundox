@@ -2,7 +2,7 @@
 
 Sou um apaixonado por Eletrônica e Desenvolvimento web. Minha jornada profissional tem sido repleta de desafios emocionantes e oportunidades de crescimento, com habilidades sólidas em ambas as áreas. Confira alguns dos projetos que trabalhei abaixo.
 
-[![Blog](https://img.shields.io/website?label=TecCriativo.com&style=for-the-badge&url=https://teccriativo.vercel.app/)](https://teccriativo.vercel.app)
+[![Blog](https://img.shields.io/website?label=TecCriativo.com&style=for-the-badge&url=https://teccriativo.vercel.app/)](https://raimundox.vercel.app/contact?utm_source=github&utm_medium=bio&utm_campaign=Bio_github&utm_id=0001-04)
 [![Blog](https://img.shields.io/website?label=Bolãodepalpites.com&style=for-the-badge&url=https://staygreen.up.railway.app/)](https://xn--bolodepalpites-shb.com)
 
 ## Tecnologias que uso no meu dia
@@ -18,6 +18,8 @@ Sou um apaixonado por Eletrônica e Desenvolvimento web. Minha jornada profissio
 </div>
 
 ## Redes sociais
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raimundoneto_dev/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raimundo-neto-dev/)
-  [![Blog](https://img.shields.io/website?label=Portfólio.com&style=for-the-badge&url=https://teccriativo.vercel.app/)](https://teccriativo.vercel.app/contact)
+  [![Blog](https://img.shields.io/website?label=Portfólio.com&style=for-the-badge&url=https://teccriativo.vercel.app/)](https://raimundox.vercel.app/contact?utm_source=github&utm_medium=bio&utm_campaign=Bio_github&utm_id=0001-04)
+  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@raimundoneto_dev)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raimundonetodev)  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raimundoneto_dev/)
